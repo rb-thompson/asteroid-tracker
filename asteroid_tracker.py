@@ -13,7 +13,7 @@ from plotly.subplots import make_subplots
 
 
 # Initialize variables with api key, 7-day range, and api url
-API_KEY = "S7jg6teRf99TsK7cokbQsGnN97Fp0ylojTFHZnq8"
+API_KEY = "API_KEY"
 START_DATE = "2025-01-24"
 END_DATE = "2025-01-31"
 url = f"https://api.nasa.gov/neo/rest/v1/feed?start_date={START_DATE}&end_date={END_DATE}&api_key={API_KEY}"
